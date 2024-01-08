@@ -1,4 +1,4 @@
-<img src="Screenshot from 2023-11-26 19-59-54.png">
+<img src="https://i.ibb.co/zrsgbrZ/Screenshot-20240108-082331.png">
 
 # SpamTele
 Berfungsi Untuk Melakukan Spam Chat dengan Menggunakan Bot
