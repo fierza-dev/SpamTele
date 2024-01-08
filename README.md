@@ -15,4 +15,4 @@ Berfungsi Untuk Melakukan Spam Chat dengan Menggunakan Bot
 </ol>
 
 <h3>How To Use</h3>
-<p>python3 hash-iden.py -cp hash</p>
+<p>python3 main.py</p>
