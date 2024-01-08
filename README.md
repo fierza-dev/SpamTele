@@ -4,7 +4,7 @@ Berfungsi Untuk Melakukan Spam Chat dengan Menggunakan Bot
 <h3>Video Demo :</h3>
 [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.veed.io/embed/16791cd8-b5e1-472a-b972-b71f6766ca04)
 <br>
-<b>*NOTE: Harap Lakukan Configuration Token,Chat Id dibagian Setting terlebih dahulu sebelum menggunakan<b>
+<b>*NOTE: Harap Lakukan Configuration Token,Chat Id dibagian Setting terlebih dahulu sebelum menggunakan</b>b>
 <br>
 <h3>Installation</h3>
 <ol>
