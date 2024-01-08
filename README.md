@@ -1,8 +1,4 @@
 # SpamTele
 Berfungsi Untuk Melakukan Spam Chat dengan Menggunakan Bot
 
- <video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video> 
+ <iframe src="https://www.veed.io/embed/16791cd8-b5e1-472a-b972-b71f6766ca04" width="744" height="504" frameborder="0" title="demo.mkv" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
